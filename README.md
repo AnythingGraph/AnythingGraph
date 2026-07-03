@@ -1,6 +1,11 @@
 # Anything Graph - Ontology As Code Layer
 
-**Anything Graph** Connect your existing systems, define governance once, reuse everywhere. It addresses the most frustrating questions in agentic AI today:
+**Anything Graph** Connect your existing systems, define governance once, reuse everywhere. 
+
+[https://www.anythinggraph.com/dashboard.png](https://www.anythinggraph.com/dashboard.png)
+
+
+It addresses the most frustrating questions in agentic AI today:
 
 ```
 🤝 How do I make agent answers consistent across teams?
