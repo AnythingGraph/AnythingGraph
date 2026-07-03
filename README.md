@@ -2,7 +2,7 @@
 
 **Anything Graph** Connect your existing systems, define governance once, reuse everywhere. 
 
-[https://www.anythinggraph.com/dashboard.png](https://www.anythinggraph.com/dashboard.png)
+![https://www.anythinggraph.com/dashboard.png](https://www.anythinggraph.com/dashboard.png)
 
 
 It addresses the most frustrating questions in agentic AI today:
